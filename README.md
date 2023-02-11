@@ -38,17 +38,11 @@ Hi, I am trying to become a awesome Front-End developer😎
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <br/><br/>
   
- <!--공부중 -->
  
   ## Studying :pencil2: 
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
-  <!--백-->
-  <br/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
- <!--언어 및 툴 --> <br/>
 
- <br/>
  <br/>
   
   
