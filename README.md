@@ -44,8 +44,9 @@ Hi, I am trying to become a awesome Front-End developer😎
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
  <br/>
-
+## ing 💪🏻
+ <br/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghyun0522&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=seunghyun0522&show_icons=true">
-  <br/>
+
 </div>
