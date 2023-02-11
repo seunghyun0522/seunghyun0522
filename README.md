@@ -2,4 +2,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunghyun0522&layout=compact)](https://github.com/seunghyun0522/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghyun0522&show_icons=true&theme=hightcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghyun0522&show_icons=true&theme=highcontrast)
