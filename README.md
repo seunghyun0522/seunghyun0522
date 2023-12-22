@@ -6,13 +6,14 @@
 
 <!--소개-->
 
-## Introduction :raised_hands:
+## 🤚 Introduction
 
 Hi, I am trying to become a awesome Front-End developer😎
 
+<br/>
 
  <!--기술스택-->
-## 💪 기술 스택
+## 💪 Skill
 __Language__
   <p>
    <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
@@ -60,10 +61,11 @@ __Language__
    <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
   </p>
 
+<br/>
 
 
 
-  <!--기술스택-->
+  <!--study-->
 ## 📆 study
 
   <img src="https://github-readme-stats.vercel.app/api?username=seunghyun0522&show_icons=true&theme=onedark"/>
