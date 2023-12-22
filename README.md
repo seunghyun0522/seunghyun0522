@@ -8,13 +8,21 @@
 
 ## 🤚 Introduction
 
-Hi, I am trying to become a awesome Front-End developer😎
+Hi, I am trying to become a awesome Full-Stack developer😎
+* 다양한 배움을 좋아하고 
+끊임없는 성장을 위해 노력하는
+풀스택 개발자 준비생 김승현 입니다.
+
+
+
+### 🪞 포트폴리오
+[포트폴리오 (링크) ](https://ambiguous-shovel-ba6.notion.site/6b99ff8601cb43e497ccec1ac8a0ce29?pvs=4)
 
 <br/>
-
  <!--기술스택-->
-## 💪 Skill
-__Language__
+ 
+ ## 💪 Skill
+
   <p>
    <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
    <img src="https://img.shields.io/badge/Java Script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
