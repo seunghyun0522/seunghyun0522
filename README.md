@@ -23,6 +23,7 @@ Hi, I am trying to become a awesome Full-Stack developer😎
  
  ## 💪 Skill
 
+**language**
   <p>
    <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
    <img src="https://img.shields.io/badge/Java Script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
