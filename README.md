@@ -8,7 +8,7 @@
 
 ## 🤚 Introduction
 
-Hi, I am trying to become a awesome Full-Stack developer😎
+Hi, I am trying to become a full-Stack developer😎
 * 다양한 배움을 좋아하고 
 끊임없는 성장을 위해 노력하는
 풀스택 개발자 준비생 김승현 입니다.
