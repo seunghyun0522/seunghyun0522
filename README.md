@@ -55,6 +55,7 @@ Hi, I am trying to become a full-Stack developer😎
   
 **DataBase**
   <p>
+ <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  
   </p>
