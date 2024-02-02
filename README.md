@@ -48,7 +48,7 @@ Hi, I am trying to become a full-Stack developer😎
 
   </p>
   
-**ORM & SQL Mapper(~ing)**
+**ORM & SQL Mapper**
   <p>
    <img src="https://img.shields.io/badge/mybatis-010101?style=for-the-badge&logo=mybatis&logoColor=white"/>
   </p>
@@ -60,7 +60,7 @@ Hi, I am trying to become a full-Stack developer😎
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  
   </p>
   
-**Cloud(~ing)**
+**Cloud**
   <p>
    <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=for-the-badge&logo=naver&logoColor=white"> 
   </p>
