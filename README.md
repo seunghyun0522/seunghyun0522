@@ -6,7 +6,7 @@
 
 <!--소개-->
 
-## 🤚 Introduction
+## 🤚 Introduction!
 
 Hi, I am trying to become a full-Stack developer😎
 * 다양한 배움을 좋아하고 
