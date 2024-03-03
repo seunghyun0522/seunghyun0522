@@ -48,10 +48,7 @@ Hi, I am trying to become a full-Stack developer😎
 
   </p>
   
-**ORM & SQL Mapper**
-  <p>
-   <img src="https://img.shields.io/badge/mybatis-010101?style=for-the-badge&logo=mybatis&logoColor=white"/>
-  </p>
+
   
 **DataBase**
   <p>
@@ -76,9 +73,3 @@ Hi, I am trying to become a full-Stack developer😎
 <br/>
 
 
-
-  <!--study-->
-## 📆 study
-
-  <img src="https://github-readme-stats.vercel.app/api?username=seunghyun0522&show_icons=true&theme=onedark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghyun0522&layout=compact&theme=onedark"/>
