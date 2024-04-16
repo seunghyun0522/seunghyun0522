@@ -14,10 +14,6 @@ Hi, I am trying to become a full-Stack developer😎
 개발자 김승현입니다.
 
 
-
-### 🪞 포트폴리오
-[포트폴리오 (링크) ](https://ambiguous-shovel-ba6.notion.site/6b99ff8601cb43e497ccec1ac8a0ce29?pvs=4)
-
 <br/>
  <!--기술스택-->
  
