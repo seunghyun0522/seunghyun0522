@@ -1,71 +1,57 @@
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=jiyeoon&&style=flat-square" align="right" />
+</div>  
+  
+
+<br/>  
+
+## Hi There 👋  
 
 
-<!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=김승현의%20깃%20허브%20저장소에%20오신것을%20환영합니다&descAlignY=55&descAlign=50&descSize=35)
+<a href="https://github.com/seunghyun0522" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://linkedin.com/in/seunghyun-kim-013378272" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://instagram.com/s_dellera_" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
+</a>
+
+  <a href="https://cojjangsh.tistory.com" target="_blank">
+<img src="https://img.shields.io/badge/velog-20C997.svg?style=for-the-badge&logo=velog&logoColor=white&color=dd2a7b alt=velog style="margin-bottom: 5px;">
+</a>
 
 
-<!--소개-->
-
-## 🤚 Introduction!
-
-Hi, I am trying to become a full-Stack developer😎
-* 다양한 배움을 좋아하고 
-끊임없는 성장을 위해 노력하는
-개발자 김승현입니다.
 
 
-<br/>
- <!--기술스택-->
+### Hello, I'm Seunghyun Kim!
+
+Good day!
+
+I am a developer from South Korea 🇰🇷. I am interested in 3D develop and cloud. I like playing music, exercising and communicating! 
+
+If you want to contact me, please leave me a message!
  
- ## 💪 Skill
-
-**language**
-
-  <p>
-   <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Java Script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
-  </p>
-
-**FrontEnd**
-  <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Java Script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&amp;logoColor=white">       
-
-  </p>
-  
-**BackEnd**
-  <p>
-
-   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-  </p>
-  
-
-  
-**DataBase**
-  <p>
- <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  
-  </p>
-  
-**Cloud**
-  <p>
-   <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=for-the-badge&logo=naver&logoColor=white"> 
-  </p>
-
-**Tools**
-  <p>
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&amp;logoColor=white">
-   <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
-     <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-  </p>
-
 <br/>
+
+### 💫 Experience
+- **CmWorld** - full stack developer *(Apr 2024 ~)*
+- **LUXROBO** - Student Intern, Content planner  *(Dec 2021 - Mar 2022)*
+- **Deloitte Consulting** - Consulting-talent center intern *(July 2019- Aug 2019)*  
+  
+
+<br/>  
+
+
+### ✨ Summary
+
+- 🔭 I’m currently working on [CmWorld](http://www.cmworld.net:18080/) as a full stack developer
+- 🌱 I'm currently learning Cloud Network, cesiumJS
+- 📝 I regularly write articles on [my blog](https://cojjangsh.tistory.com/).  
+  
+
 
 
