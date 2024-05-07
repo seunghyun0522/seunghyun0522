@@ -1,12 +1,10 @@
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=seunghyun0522&&style=flat-square" align="right" />
 </div>  
-  
 
 <br/>  
 
 ## Hi There 👋  
-
 
 <a href="https://github.com/seunghyun0522" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -24,9 +22,6 @@
 <img src="https://img.shields.io/badge/velog-20C997.svg?style=for-the-badge&logo=velog&logoColor=white&color=dd2a7b alt=velog style="margin-bottom: 5px;">
 </a>
 
-
-
-
 ### Hello, I'm Seunghyun Kim!
 
 Good day!
@@ -42,9 +37,7 @@ If you want to contact me, please leave me a message!
 - **LUXROBO** - Student Intern, Content planner  *(Dec 2021 - Mar 2022)*
 - **Deloitte Consulting** - Consulting-talent center intern *(July 2019- Aug 2019)*  
   
-
 <br/>  
-
 
 ### ✨ Summary
 
