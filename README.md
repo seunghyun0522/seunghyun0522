@@ -33,7 +33,7 @@ If you want to contact me, please leave me a message!
 <br/>
 
 ### 💫 Experience
-- **CmWorld** - full stack developer *(Apr 2024 ~)*
+- **CmWorld** - Web developer *(Apr 2024 ~)*
 - **LUXROBO** - Student Intern, Content planner  *(Dec 2021 - Mar 2022)*
 - **Deloitte Consulting** - Consulting-talent center intern *(July 2019- Aug 2019)*  
   
