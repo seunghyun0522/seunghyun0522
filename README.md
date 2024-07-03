@@ -42,8 +42,8 @@ If you want to contact me, please leave me a message!
 
 ### ✨ Summary
 
-- 🔭 I’m currently working on [CmWorld](http://www.cmworld.net:18080/) as a full stack developer
-- 🌱 I'm currently learning Cloud Network, cesiumJS
+- 🔭 I’m currently working on [CmWorld](http://www.cmworld.net:18080/) 
+- 🌱 I'm currently learning Cloud Network
 - 📝 I regularly write articles on [my blog](https://cojjangsh.tistory.com/).  
   
 
