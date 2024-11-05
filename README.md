@@ -34,7 +34,7 @@ If you want to contact me, please leave me a message!
 
 ### 💫 Experience
 - **CmWorld** - Web developer *(Apr 2024 ~)*
-- [**Capstone Competition First place**](https://github.com/Kim-Song/Recommend) - At the University Capstone Competition, won first place *(Dec 2023)*
+- [**Capstone Competition First place**](https://github.com/Kim-Song/Recommend) - At the Sejong University Capstone Competition, won first place *(Dec 2023)*
 - **LUXROBO** - Student Intern, Content planner  *(Dec 2021 - Mar 2022)*
 - **Deloitte Consulting** - Consulting-talent center intern *(July 2019- Aug 2019)*
 
