@@ -48,4 +48,10 @@ If you want to contact me, please leave me a message!
   
 
 
+<br/>
 
+### 👽 Animals
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/seunghyun0522"/>
+</a>
