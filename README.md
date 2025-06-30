@@ -18,9 +18,6 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
 </a>
 
-  <a href="https://cojjangsh.tistory.com" target="_blank">
-<img src="https://img.shields.io/badge/velog-20C997.svg?style=for-the-badge&logo=velog&logoColor=white&color=dd2a7b alt=velog style="margin-bottom: 5px;">
-</a>
 
 ### Hello, I'm Seunghyun Kim!
 
